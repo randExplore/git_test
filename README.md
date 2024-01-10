@@ -1,3 +1,2 @@
 # git_test
-Testing my git setup
-Add a line in my local repo and then test
+Testing my git setup and testing the html publishing function
